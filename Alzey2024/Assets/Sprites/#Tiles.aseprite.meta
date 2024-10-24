@@ -123,15 +123,15 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: '#Tiles'
     originalName: 
-    pivot: {x: 0.78571427, y: -0.08173077}
+    pivot: {x: 0.5555556, y: -0.13513514}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 224
-      height: 416
+      width: 288
+      height: 1184
     spriteID: 0dec870776fbc414487273ccab8f73ea
     spriteBone: []
     spriteOutline: []
@@ -155,9 +155,9 @@ ScriptedImporter:
       additiveSortOrder: 0
       cellRect:
         x: 0
-        y: 34
-        width: 224
-        height: 416
+        y: 160
+        width: 288
+        height: 1184
       spriteId: 0dec870776fbc414487273ccab8f73ea
     linkedCells: []
     parentIndex: -1
@@ -177,4 +177,4 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 352, y: 450}
+  canvasSize: {x: 320, y: 1344}

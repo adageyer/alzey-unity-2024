@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: '#Tiles_2'
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: -1190279462, guid: 8cb7a9c5a5e93e245aec4426dd07c37f, type: 3}
+  m_Sprite: {fileID: 474711031, guid: 6147368cc29fe0f4ba633783d71d346d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1

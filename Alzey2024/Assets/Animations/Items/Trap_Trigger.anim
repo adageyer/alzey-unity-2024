@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Trap
+  m_Name: Trap_Trigger
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -26,17 +26,17 @@ AnimationClip:
       value: {fileID: -1460479342, guid: 7a61cf97acd6b374f8e5f723a2dd4dfc, type: 3}
     - time: 0.22222222
       value: {fileID: 1699935012, guid: 7a61cf97acd6b374f8e5f723a2dd4dfc, type: 3}
-    - time: 0.44444445
+    - time: 0.33333334
       value: {fileID: -1882910610, guid: 7a61cf97acd6b374f8e5f723a2dd4dfc, type: 3}
-    - time: 0.6666667
+    - time: 0.5555556
       value: {fileID: -408256740, guid: 7a61cf97acd6b374f8e5f723a2dd4dfc, type: 3}
-    - time: 0.7777778
+    - time: 0.6666667
       value: {fileID: -374189210, guid: 7a61cf97acd6b374f8e5f723a2dd4dfc, type: 3}
-    - time: 0.8888889
+    - time: 0.7777778
       value: {fileID: 192197937, guid: 7a61cf97acd6b374f8e5f723a2dd4dfc, type: 3}
-    - time: 1
+    - time: 0.8888889
       value: {fileID: -915348489, guid: 7a61cf97acd6b374f8e5f723a2dd4dfc, type: 3}
-    - time: 1.1111112
+    - time: 1
       value: {fileID: 953008942, guid: 7a61cf97acd6b374f8e5f723a2dd4dfc, type: 3}
     attribute: m_Sprite
     path: 
@@ -74,7 +74,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 1.2222223
+    m_StopTime: 1.1111112
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0

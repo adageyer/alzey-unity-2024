@@ -59,12 +59,15 @@ namespace Player {
             hurtTimer = hurtTime;
             invincibleTimer = invincibleTime;
             EventManager.InvokeOnPlayerInvincible();
+            Debug.Log("Damaging player!");
         }
 
         private void OnCollisionStay2D(Collision2D collision) {
             if (useTrigger || gameManager.IsPlayerDead) {
                 return;
             }
+
+            Debug.Log("Collided!");
 
             if (invincibleTimer <= 0 && collision.gameObject.CompareTag("Trap")) {
                 EventManager.InvokeOnPlayerHurt(collision.gameObject);
